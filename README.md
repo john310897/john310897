@@ -1,17 +1,13 @@
-Hi 👋 I'm John
-=====================
-
-Full-Stack Web Developer
------------------------
-
-🚀 Full-Stack Developer | Exploring the world of Open Source 💡 | React + Flask | Building, collaborating, and growing with the community 🌐
-
+<h2>Hi 👋 I'm John</h2>
+<h2>Full-Stack Web Developer</h2>
+<p>🚀 Full-Stack Developer | Exploring the world of Open Source 💡 | React + Flask | Building, collaborating, and growing with the community 🌐</p>
+<div>
 * 🌍  I'm based in India
-* ✉️  You can contact me at [john310897@gmail.com](mailto:john310897@gmail.com)
+* ✉️  You can contact me at [john310897@gmail.com](mailto:john310897@gmail.com)  
+</div>
 
-### Skills
-
-
+<h2>Skills</h2>
+<div>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -29,3 +25,4 @@ Full-Stack Web Developer
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 </p>
+</div>
